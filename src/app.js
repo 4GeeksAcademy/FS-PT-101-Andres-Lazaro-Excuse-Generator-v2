@@ -7,10 +7,10 @@ import "./assets/img/4geeks.ico";
 window.onload = function () {
 
 //Declaramos 4 variables que contienen un array con 4 strings
-  const sujeto = ['Mi perro travieso', ' Mi tía la loca', 'Mi gato', 'La ardilla del jardín']
+  const sujeto = ['Mi perro travieso', ' El robot de limpieza', 'Mi gato', 'La ardilla del jardín']
   const accion = ['derramó cerveza en', 'destruyó accidentalmente ', 'lanzó por la ventana ', 'convirtió en confeti']
   const evitar = ['el proyecto de ciencias ', 'el informe mensual', 'las partituras', 'la presentación']
-  const cuando = ['justo antes de salir', 'al medio día', 'hace dos días', 'antes de la presentacion']
+  const cuando = ['justo antes de salir', 'mientras soñaba despierto', 'hace dos días', 'antes de la exposición']
 
 
 //Funcion flecha GenerarExcusa retorna una posicion de cada uno de los arrays de forma aleatoria
